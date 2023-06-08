@@ -7,6 +7,7 @@
     <title>formulario</title>
 </head>
 <body>
-    
+    //archivo creado para operar con formularios de los cuales vamos a diseñar mañana
+    <h1>mi primer formulario</h1>
 </body>
 </html>
